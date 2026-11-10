@@ -1,0 +1,41 @@
+# Paper trade list: the most-traded political markets from `polymaker scan` (2026-11-11).
+
+[[markets]]
+slug    = "will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637"
+profile = "paper-liquid"
+enabled = true
+
+[[markets]]
+slug    = "will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636"
+profile = "paper-liquid"
+enabled = true
+
+[[markets]]
+slug    = "will-puma-shen-win-the-next-taipei-mayor-election-20260813125857102"
+profile = "paper-liquid"
+enabled = true
+
+[[markets]]
+slug    = "pete-hegseth-out-as-secretary-of-defense-by-december-31"
+profile = "paper-liquid"
+enabled = true
+
+[[markets]]
+slug    = "israel-x-iran-ceasefire-continues-through-november-15"
+profile = "paper-liquid"
+enabled = true
+
+[[markets]]
+slug    = "will-david-lisnard-win-the-2027-french-presidential-election"
+profile = "paper-liquid"
+enabled = true
+
+[[markets]]
+slug    = "clarity-act-signed-into-law-in-2026"
+profile = "paper-liquid"
+enabled = true
+
+[[markets]]
+slug    = "will-ron-desantis-win-the-2028-republican-presidential-nomination"
+profile = "paper-liquid"
+enabled = true
